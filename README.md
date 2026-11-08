@@ -5,7 +5,7 @@
 ![Core Values](https://img.shields.io/badge/Values-Commitment%20%7C%20Excellent%20%7C%20Trusted-gold)
 ![Governance](https://img.shields.io/badge/Governance-One%20Gate%20--%20One%20Standard%20--%20One%20Command-blue)
 
-Centralized AI State Repository & Workstation Synchronization Engine for **PT. ERAMARINDO ANUGERAH PRATAMA (Eramarindo Corporation)** under the central command authority of **ALVA OMEGA COMMAND CENTER (AOCC)** and **NEXUS Core Command Center**.
+Centralized AI State Repository & Workstation Synchronization Engine for **PT. ERAMARINDO ANUGERAH PRATAMA (Eramarindo Corporation)** under the central command authority of **ALVA OMEGA COMMAND CENTER (AOCC)**.
 
 ---
 
@@ -38,7 +38,7 @@ The **4SBO** framework drives the operational culture, agent alignment, and mult
 
 * **Multi-Layer Encryption:** 30-Layer Pyramid Security Architecture with Double End-to-End Encryption.
 * **Biometric & Machine Registration:** Strict Machine ID verification across all active terminal nodes.
-* **Deprecated Node Policy:** Complete disconnection, deletion, and certification revocation of legacy endpoints (*SCC Ema Rosari Command Center* isolated permanently).
+* **Deprecated Node Policy:** Complete disconnection, deletion, and certification revocation of legacy endpoints.
 
 ---
 
